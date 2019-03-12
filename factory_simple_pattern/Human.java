@@ -1,4 +1,4 @@
-package factory_pattern;
+package factory_simple_pattern;
 
 public class Human extends Character{
 
